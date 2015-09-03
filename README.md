@@ -15,4 +15,4 @@
 5.下载扫描器其他软件，并运行。 
 
 
-代码见https://github.com/sechacking/scriptkid/blob/master/thronsinstall.sh
+代码见https://raw.githubusercontent.com/uncia/scriptkid/master/thronsinstall.sh
